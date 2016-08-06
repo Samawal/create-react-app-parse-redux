@@ -1,7 +1,4 @@
-
-# React-:poop:
-
-**C**reate-**r**eact-**a**pp + **P**arse
+# Create-react-app + Parse (and redux)
 
 > Some React crap thrown at a wall till it sticks
 
@@ -15,7 +12,19 @@ Built with...
 - ([Parse Dashboard](https://github.com/ParsePlatform/parse-dashboard) included)
 - [Express](expressjs.com) for serving the ParseServer
 
+# Getting started
 
----
+Install dependencies
+```
+npm install
+```
 
-Though the name sounds like a diss, I :heart: ReactJS a ton
+Run React app (thanks to react-scripts)
+```
+npm start
+```
+
+Start Parse server in another terminal. (You'll need local MongoDB running, too)
+```
+npm run api
+```
