@@ -16,15 +16,15 @@ Built with...
 
 Install dependencies
 ```
-npm install
+yarn
 ```
 
 Run React app (thanks to react-scripts)
 ```
-npm start
+yarn start
 ```
 
 Start Parse server in another terminal. (You'll need local MongoDB running, too)
 ```
-npm run api
+yarn run api
 ```
