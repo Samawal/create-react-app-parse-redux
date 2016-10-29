@@ -28,6 +28,6 @@
     "api": "nodemon api/index.js --exec babel-node"
   },
   "eslintConfig": {
-    "extends": "./node_modules/react-scripts/config/eslint.js"
+    "extends": "react-app"
   }
 }
